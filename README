@@ -1,0 +1,5 @@
+To run this properly you need a spotify playlist link (copy the share link from spotify)
+
+Then run the grok_script.py to download the MP3s
+
+Then run the grok_metadata_fixer.py script to fix the metadata

@@ -1,0 +1,12 @@
+# JSON files
+*.json
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Music / iTunes folders
+iTunes_library/
+Old Music - Delete Later/
