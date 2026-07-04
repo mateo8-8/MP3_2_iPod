@@ -1,5 +1,7 @@
 To run this properly you need a spotify playlist link (copy the share link from spotify)
 
+You will need to setup a .env file that contains your spotify credentials from the developer side and paste it in for the Spotipy library to use when running the file
+
 Then run the grok_script.py to download the MP3s
 
 Then run the grok_metadata_fixer.py script to fix the metadata
